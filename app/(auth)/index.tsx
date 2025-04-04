@@ -1,5 +1,5 @@
-import { GoalCard } from "@/components/goal-card"
+import { UsageForm } from "@/components/usage-form";
 
 export default () => {
-  return <GoalCard />;
+  return <UsageForm />;
 }
